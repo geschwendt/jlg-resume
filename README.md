@@ -91,5 +91,5 @@ SKILLS & KNOWLEDGE
 
 CONTACT
 --------------------------------------------------------------------------------
-[joshua@geschwendt.com](mailto:joshua@geschwendt.com)<br>
-[616.610.2169](tel:16166102169)
+<joshua@geschwendt.com><br>
+1.616.610.2169

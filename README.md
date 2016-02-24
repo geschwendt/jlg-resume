@@ -52,41 +52,41 @@ May 2013
 
 SKILLS & KNOWLEDGE
 --------------------------------------------------------------------------------
-`AngularJS/Angular2`, 
-`Atomic Design`, 
-`Bash/PowerShell`, 
-`Bootstrap`, 
-`Bourbon`, 
-`BroccoliJS`, 
-`CloudCannon`,
-`ExpressJS`, 
-`GulpJS`, 
-`Jekyll`, 
-`jQuery`, 
-`Jspm(SystemJS)`, 
-`Karma(Jasmine/Mocha)`, 
-`NodeJS`,
-`Nunjucks`, 
-`PostCSS`, 
-`Sass/SCSS`, 
-`Sitefinity(CMS)`,
-`Socket.io`, 
-`TypeScript`, 
-`Webpack`,
-`Bower`, 
-`Jspm`, 
-`NuGet`, 
-`Npm`, 
-`Typings`,
-`GitHub`,
-`Photoshop`, 
-`Sketch3`, 
-`Slack`, 
-`Team Foundation Server`, 
-`Travis`, 
-`Visual Studio/Visual`, 
-`Studio Code`, 
-`WebStorm`, 
+`AngularJS/Angular2`,&nbsp;
+`Atomic Design`,&nbsp;
+`Bash/PowerShell`,&nbsp;
+`Bootstrap`,&nbsp;
+`Bourbon`,&nbsp;
+`BroccoliJS`,&nbsp;
+`CloudCannon`,&nbsp;
+`ExpressJS`,&nbsp;
+`GulpJS`,&nbsp;
+`Jekyll`,&nbsp;
+`jQuery`,&nbsp;
+`Jspm(SystemJS)`,&nbsp;
+`Karma(Jasmine/Mocha)`,&nbsp;
+`NodeJS`,&nbsp;
+`Nunjucks`,&nbsp;
+`PostCSS`,&nbsp;
+`Sass/SCSS`,&nbsp;
+`Sitefinity(CMS)`,&nbsp;
+`Socket.io`,&nbsp;
+`TypeScript`,&nbsp;
+`Webpack`,&nbsp;
+`Bower`,&nbsp;
+`Jspm`,&nbsp;
+`NuGet`,&nbsp;
+`Npm`,&nbsp;
+`Typings`,&nbsp;
+`GitHub`,&nbsp;
+`Photoshop`,&nbsp;
+`Sketch3`,&nbsp;
+`Slack`,&nbsp;
+`Team Foundation Server`,&nbsp;
+`Travis`,&nbsp;
+`Visual Studio/Visual`,&nbsp;
+`Studio Code`,&nbsp;
+`WebStorm`,&nbsp;
 `ZenHub`
 
 CONTACT

@@ -1,6 +1,6 @@
 JOSHUA L GESCHWENDT
 ================================================================================
-FULL STACK, BLEEDING EDGE, WEB DEVELOPER
+FULL STACK, OPEN SOURCE, WEB DEVELOPER
 
 EXPERIENCE
 --------------------------------------------------------------------------------

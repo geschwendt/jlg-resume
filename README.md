@@ -52,41 +52,41 @@ May 2013
 
 SKILLS & KNOWLEDGE
 --------------------------------------------------------------------------------
-`AngularJS/Angular2`,&nbsp;
-`Atomic Design`,&nbsp;
-`Bash/PowerShell`,&nbsp;
-`Bootstrap`,&nbsp;
-`Bourbon`,&nbsp;
-`BroccoliJS`,&nbsp;
-`CloudCannon`,&nbsp;
-`ExpressJS`,&nbsp;
-`GulpJS`,&nbsp;
-`Jekyll`,&nbsp;
-`jQuery`,&nbsp;
-`Jspm(SystemJS)`,&nbsp;
-`Karma(Jasmine/Mocha)`,&nbsp;
-`NodeJS`,&nbsp;
-`Nunjucks`,&nbsp;
-`PostCSS`,&nbsp;
-`Sass/SCSS`,&nbsp;
-`Sitefinity(CMS)`,&nbsp;
-`Socket.io`,&nbsp;
-`TypeScript`,&nbsp;
-`Webpack`,&nbsp;
-`Bower`,&nbsp;
-`Jspm`,&nbsp;
-`NuGet`,&nbsp;
-`Npm`,&nbsp;
-`Typings`,&nbsp;
-`GitHub`,&nbsp;
-`Photoshop`,&nbsp;
-`Sketch3`,&nbsp;
-`Slack`,&nbsp;
-`Team Foundation Server`,&nbsp;
-`Travis`,&nbsp;
-`Visual Studio/Visual`,&nbsp;
-`Studio Code`,&nbsp;
-`WebStorm`,&nbsp;
+`AngularJS/Angular2`&emsp;
+`Atomic Design`&emsp;
+`Bash/PowerShell`&emsp;
+`Bootstrap`&emsp;
+`Bourbon`&emsp;
+`BroccoliJS`&emsp;
+`CloudCannon`&emsp;
+`ExpressJS`&emsp;
+`GulpJS`&emsp;
+`Jekyll`&emsp;
+`jQuery`&emsp;
+`Jspm(SystemJS)`&emsp;
+`Karma(Jasmine/Mocha)`&emsp;
+`NodeJS`&emsp;
+`Nunjucks`&emsp;
+`PostCSS`&emsp;
+`Sass/SCSS`&emsp;
+`Sitefinity(CMS)`&emsp;
+`Socket.io`&emsp;
+`TypeScript`&emsp;
+`Webpack`&emsp;
+`Bower`&emsp;
+`Jspm`&emsp;
+`NuGet`&emsp;
+`Npm`&emsp;
+`Typings`&emsp;
+`GitHub`&emsp;
+`Photoshop`&emsp;
+`Sketch3`&emsp;
+`Slack`&emsp;
+`Team Foundation Server`&emsp;
+`Travis`&emsp;
+`Visual Studio/Visual`&emsp;
+`Studio Code`&emsp;
+`WebStorm`&emsp;
 `ZenHub`
 
 CONTACT

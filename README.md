@@ -30,7 +30,7 @@ Contract Developer<br>
 May 2013 – November 2014<br>
 > <details>
 > <summary>See Details</summary>
-> <p>Majorly contributed in the planning, design, and development of a suite of apps & websites for the university including [maps.msu.edu](https://maps.msu.edu/interactive/) and [search.msu.edu](https://search.msu.edu/). Several of these projects were started from scratch including the internal Search API that is the acting resource for many departments in the university's network.</p>
+> <p>Majorly contributed in the planning, design, and development of a suite of apps & websites for the university including (maps.msu.edu)[https://maps.msu.edu/interactive/] and (search.msu.edu)[https://search.msu.edu/]. Several of these projects were started from scratch including the internal Search API that is the acting resource for many departments in the university's network.</p>
 > </details>
 
 

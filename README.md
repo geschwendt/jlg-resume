@@ -63,7 +63,7 @@ RELEVANT KNOWLEDGE & SKILLS
 DevOps: 
 > `AWS`, `Ansible`, `Docker`, `Nginx`
 
-API Solutions: 
+API Architectures: 
 > `GraphQL`, `REST`
 
 Notable Languages:

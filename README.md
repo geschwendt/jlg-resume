@@ -1,95 +1,87 @@
 JOSHUA L GESCHWENDT
-================================================================================
-FULL STACK, OPEN SOURCE, WEB DEVELOPER
+===================
+> SOFTWARE ENGINEER
+<br>Grand Rapids, Michigan
+
 
 EXPERIENCE
---------------------------------------------------------------------------------
+----------
 
-> ### Springthrough
-> **Developer November 2014 to Present**
+**Varsity News Network**<br>
+Senior Software Engineer<br>
+June 2016 - Present<br>
+> <details>
+> <summary>See Details</summary>
+> <p>Part of a team which focuses on creating the largest network of high school athletic communities in the country by providing solutions which showcase athletic achievements, provides software for athletic departments, and offers robust advertising products to businesses and vendors. </p>
+> </details>
 
-> Collaborate daily with designers, developers, and project managers to build
-quality experiences over a variety of platforms and technologies for our
-clients and their users. Solutions range from enterprise content management
-systems to single page web applications, developed with quality tested code
-backed with continuous integration.
 
-&nbsp;
-> ### Freelancer
-> **Designer & Developer May 2014 to Present**
+**Springthrough**<br>
+Developer<br>
+November 2014 - June 2016<br>
+> <details>
+> <summary>See Details</summary>
+> <p>Worked with several teams consisting of designers, developers, and project managers to efficiently build quality experiences over a variety of platforms and technologies for our clients and their users. Solutions ranged from complex single page web applications to i18n enterprise content management systems.</p>
+> </details>
 
-> Actively responsible for developing and maintaining several small to
-enterprise level business solutions through iterative and agile development
-cycles. Throughout these cycles a clear focus is kept on a maintainable DRY
-performance based code and consistent package management.
 
-&nbsp;
-> ### Michigan State University
-> **Contract Developer May 2013 to November 2014**
+**Michigan State University**<br>
+Contract Developer<br>
+May 2013 to November 2014<br>
+> <details>
+> <summary>See Details</summary>
+> <p>Majorly contributed in the planning, design, and development of a suite of apps & websites for the university including [maps.msu.edu](https://maps.msu.edu/interactive/) and [search.msu.edu](https://search.msu.edu/). Several of these projects were started from scratch including the internal Search API that is the acting resource for many departments in the university's network.</p>
+> </details>
 
-> Restructured, redesigned and developed a suite of websites for the university
-including the global search engine and interactive map. Several of these
-websites received a complete rewrite, resulting in a new university search
-API. The API now serves as a standard solution for other departments within
-the university and continues to be actively developed.
 
-&nbsp;
-> ### Whirlpool Corporation
-> **iOS Developer Intern September 2013 to December 2013**
+**Whirlpool Corporation**<br>
+iOS Developer | Intern<br>
+September 2013 to December 2013<br>
+> <details>
+> <summary>See Details</summary>
+> <p>Prototyped an iOS App that let users configure settings for appliances based on the location of their device. This was the proof of concept for Whirlpool’s "smart appliance" line.</p>
+> </details>
 
-> Developed a native iOS application that gave users the ability to confgure
-custom settings for an appliance based on the location of their device.
-This served as the proof of concept for several of Whirlpool’s new smart
-appliance line.
+
 
 EDUCATION
---------------------------------------------------------------------------------
-> Bachelor of Science, Computer Science<br>
-Michigan State University<br>
-College of Engineering<br>
-East Lansing, MI<br>
-May 2013
+---------
 
-SKILLS & KNOWLEDGE
---------------------------------------------------------------------------------
-`AngularJS/Angular2`&emsp;
-`Atomic Design`&emsp;
-`Bash/PowerShell`&emsp;
-`Bootstrap`&emsp;
-`Bourbon`&emsp;
-`BroccoliJS`&emsp;
-`CloudCannon`&emsp;
-`ExpressJS`&emsp;
-`GulpJS`&emsp;
-`Jekyll`&emsp;
-`jQuery`&emsp;
-`Jspm(SystemJS)`&emsp;
-`Karma(Jasmine/Mocha)`&emsp;
-`NodeJS`&emsp;
-`Nunjucks`&emsp;
-`PostCSS`&emsp;
-`Sass/SCSS`&emsp;
-`Sitefinity(CMS)`&emsp;
-`Socket.io`&emsp;
-`TypeScript`&emsp;
-`Webpack`&emsp;
-`Bower`&emsp;
-`Jspm`&emsp;
-`NuGet`&emsp;
-`Npm`&emsp;
-`Typings`&emsp;
-`GitHub`&emsp;
-`Photoshop`&emsp;
-`Sketch3`&emsp;
-`Slack`&emsp;
-`Team Foundation Server`&emsp;
-`Travis`&emsp;
-`Visual Studio/Visual`&emsp;
-`Studio Code`&emsp;
-`WebStorm`&emsp;
-`ZenHub`
+> **Bachelor of Science**<br>
+  Michigan State University<br>
+  **Degree in Computer Science & Engineering**<br>
+  Specialization in Mathematics<br>
+  College of Engineering<br>
+  East Lansing, MI<br>
+  **May 2013**
+
+
+
+RELEVANT KNOWLEDGE & SKILLS
+---------------------------
+
+DevOps: 
+> `AWS`, `Ansible`, `Docker`, `Nginx`
+
+API Solutions: 
+> `GraphQL`, `REST`
+
+Notable Languages:
+> `C#`, `Elixir`, `NodeJS`, `PHP`
+
+Content Managment Systems:
+> `Jekyll`, `Sitefinity`, `WordPress`
+
+CSS Heavy Packages: 
+> `Bootstrap`, `Bourbon`, `Foundation`
+
+JavaScript Heavy Packages: 
+> Patterns: `Angular`, `React(Relay)`, `RxJs`<br>
+> Tooling: `Gulp`, `SystemJS`, `Webpack`
+
+
 
 CONTACT
---------------------------------------------------------------------------------
+-------
 <joshua@geschwendt.com><br>
-1.616.610.2169
+[linkedin.com/in/jgeschwendt/](https://www.linkedin.com/in/jgeschwendt/)

@@ -9,7 +9,7 @@ EXPERIENCE
 
 **Varsity News Network**<br>
 Senior Software Engineer<br>
-June 2016 - Present<br>
+June 2016 – Present<br>
 > <details>
 > <summary>See Details</summary>
 > <p>Part of a team which focuses on creating the largest network of high school athletic communities in the country by providing solutions which showcase athletic achievements, provides software for athletic departments, and offers robust advertising products to businesses and vendors. </p>
@@ -18,7 +18,7 @@ June 2016 - Present<br>
 
 **Springthrough**<br>
 Developer<br>
-November 2014 - June 2016<br>
+November 2014 – June 2016<br>
 > <details>
 > <summary>See Details</summary>
 > <p>Worked with several teams consisting of designers, developers, and project managers to efficiently build quality experiences over a variety of platforms and technologies for our clients and their users. Solutions ranged from complex single page web applications to i18n enterprise content management systems.</p>
@@ -27,7 +27,7 @@ November 2014 - June 2016<br>
 
 **Michigan State University**<br>
 Contract Developer<br>
-May 2013 to November 2014<br>
+May 2013 – November 2014<br>
 > <details>
 > <summary>See Details</summary>
 > <p>Majorly contributed in the planning, design, and development of a suite of apps & websites for the university including [maps.msu.edu](https://maps.msu.edu/interactive/) and [search.msu.edu](https://search.msu.edu/). Several of these projects were started from scratch including the internal Search API that is the acting resource for many departments in the university's network.</p>
@@ -36,7 +36,7 @@ May 2013 to November 2014<br>
 
 **Whirlpool Corporation**<br>
 iOS Developer | Intern<br>
-September 2013 to December 2013<br>
+September 2013 – December 2013<br>
 > <details>
 > <summary>See Details</summary>
 > <p>Prototyped an iOS App that let users configure settings for appliances based on the location of their device. This was the proof of concept for Whirlpool’s "smart appliance" line.</p>

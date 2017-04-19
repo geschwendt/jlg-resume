@@ -61,23 +61,23 @@ RELEVANT KNOWLEDGE & SKILLS
 ---------------------------
 
 DevOps: 
-> `AWS`, `Ansible`, `Docker`, `Nginx`
+> `AWS` `Ansible` `Docker` `Nginx`
 
 API Architectures: 
-> `GraphQL`, `REST`
+> `GraphQL` `REST`
 
 Notable Languages:
-> `C#`, `Elixir`, `NodeJS`, `PHP`
+> `C#` `Elixir` `NodeJS` `PHP`
 
 Content Managment Systems:
-> `Jekyll`, `Sitefinity`, `WordPress`
+> `Jekyll` `Sitefinity` `WordPress`
 
 CSS Heavy Packages: 
-> `Bootstrap`, `Bourbon`, `Foundation`
+> `Bootstrap` `Bourbon` `Foundation`
 
 JavaScript Heavy Packages: 
-> Patterns: `Angular`, `React(Relay)`, `RxJs`<br>
-> Tooling: `Gulp`, `SystemJS`, `Webpack`
+> Patterns: `Angular` `React(Relay)` `RxJs`<br>
+> Tooling: `Gulp` `SystemJS` `Webpack`
 
 
 

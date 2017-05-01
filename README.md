@@ -76,7 +76,7 @@ CSS Heavy Packages:
 > `Bootstrap` `Bourbon` `Foundation`
 
 JavaScript Heavy Packages: 
-> Patterns: `Angular` `React(Relay)` `RxJs`<br>
+> Patterns: `Angular` `React(Redux|Relay)` `RxJs`<br>
 > Tooling: `Gulp` `SystemJS` `Webpack`
 
 

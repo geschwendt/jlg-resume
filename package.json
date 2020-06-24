@@ -1,0 +1,21 @@
+{
+  "name": "jlg-resume",
+  "version": "0.1.5",
+  "description": "Resume (CV)",
+  "main": "dist/index.html",
+  "repository": "git@github.com:jgeschwendt/jlg-resume.git",
+  "author": "Joshua L Geschwendt <joshua@geschwendt.com>",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "4.5.0"
+  },
+  "devDependencies": {
+    "parcel": "next",
+    "sass": "1.26.8"
+  },
+  "scripts": {
+    "build": "rm -rf docs && parcel build src/resume.html --dist-dir docs --no-cache --public-url /jlg-resume",
+    "dev": "rm -rf .parcel-tmp && parcel serve src/*.html --dist-dir .parcel-tmp",
+    "dev:letters": "rm -rf .parcel-tmp && parcel serve src/letters/*.html --dist-dir .parcel-tmp"
+  }
+}

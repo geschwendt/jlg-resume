@@ -1,0 +1,10 @@
+.parcel-cache
+.parcel-tmp
+.vscode
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+src/letters
+.pnp.*

@@ -1,0 +1,17 @@
+p {
+  width: 75%;
+}
+
+.page {
+  justify-content: center;
+}
+
+.page section {
+  flex: 0;
+}
+
+.cover {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
